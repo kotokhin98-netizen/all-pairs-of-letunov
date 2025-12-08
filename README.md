@@ -1,4 +1,4 @@
-nY∧(X∧Z))↔(Z∧X∨Y)
+Y∧(X∧Z))↔(Z∧X∨Y)
 (A∧B)∨(¬A∧¬B)
 A=Y∧(X∧Z)
 B=(Z∧X)∨Y
