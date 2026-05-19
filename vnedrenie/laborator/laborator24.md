@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/e93e2a46-2fa7-43cd-8127-81ff49a15e6e" />
 # Лабораторная работа №24
 ## Изучение файловой системы ОС Linux и функций по обработке и управлению данными
 
@@ -295,8 +296,11 @@ who | grep tty > active.txt  # фильтрация по терминалу
 - Мониторинг процессов и пользователей (`ps`, `who`, `top`)
 
 ✅ Приобретены практические навыки работы в терминале Linux, необходимые для администрирования и разработки в UNIX-подобных средах.
+<img width="1366" height="768" alt="Снимок экрана (3)" src="https://github.com/user-attachments/assets/5212820e-db31-4d97-b9a8-d7b57c465318" />
+<img width="1366" height="768" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/d4b1e52e-1687-4e34-9e57-1db040b662db" />
 
 
+ikygf<img width="1366" height="768" alt="Снимок экрана (2)" src="https://github.com/user-attachments/assets/edad16cb-c7d0-4c75-8b6b-d04803a896c9" />
 
 
 
